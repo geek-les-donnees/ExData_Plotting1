@@ -1,5 +1,3 @@
-setwd('C:\\Users\\kvadhri\\Documents\\Learning\\Coursera_DS_Specialization')
-
 data = read.table(file = 'household_power_consumption.txt', sep=';' , header = TRUE, na.strings="?")
 
 head(data)
